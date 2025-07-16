@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
-<h3 align="center">If it compiles, I ship it.</h3>
 
-- 🔭 I’m currently working on **acing DSA and MERN stack.**
+- 🔭 **I’m currently working on** <br> acing DSA and MERN stack.
 
 - 👯 I’m looking to collaborate on **fullstack projects.**
 
