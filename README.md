@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
 
-- 🔭 **I’m currently working on** <br> acing DSA and MERN stack.
+- 🔭 **I’m currently working on:**<br>acing DSA and MERN stack.
 
-- 👯 I’m looking to collaborate on **fullstack projects.**
+- 👯 **I’m looking to collaborate on**<br>fullstack projects.
 
-- ⚡ Fun fact **My code works perfectly… after 37 commits and a mild identity crisis.**
+- ⚡ **Fun fact:**<br>My code works perfectly… after 37 commits and a mild identity crisis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
