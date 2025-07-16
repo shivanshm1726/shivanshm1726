@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivansh Mishra</h1>
----
 
 - 🔭 I’m currently working on:  
   Acing **DSA** and building scalable **MERN stack** applications.
