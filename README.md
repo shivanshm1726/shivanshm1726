@@ -46,10 +46,3 @@
 </p>
 
 ---
-
-## 🕹️ Pacman Contribution Graph
-
-<img src="https://raw.githubusercontent.com/shivanshm1726/shivanshm1726/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" width="100%" />
-
-
-###
