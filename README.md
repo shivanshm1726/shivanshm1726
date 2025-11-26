@@ -6,9 +6,6 @@
 - 👯 I’m looking to collaborate on:  
   **fullstack projects**.
 
-- ⚡ Fun fact:  
-  I don’t write bugs — I ship *undocumented features* on purpose.
-
 ---
 
 ### 📫 Connect with me:
@@ -16,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivansh7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://stackoverflow.com/users/shivansh-mishra" target="blank"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" /></a>
-<a href="https://instagram.com/shivanshh.26" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" /></a>
+<a href="https://instagram.com/shivanshhh.26" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" /></a>
 </p>
 
 ---
